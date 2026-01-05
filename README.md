@@ -8,7 +8,7 @@ Right now, I’m focused on understanding computer systems and networking, learn
 I’m learning Python and have recently started working with Java.
 
 Fun Facts:
-- I have a puppy named Tito
-- I enjoy recreational sports, especially soccer
-- I do video edits for social media
-- I love drawing and any form of art
+- 🐶 I have a puppy named Tito
+- ⚽️ I enjoy recreational sports, especially soccer
+- 🎥 I do video edits for social media
+- ✍🏽 I love drawing and any form of art 🎶
